@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/28 16:58:56.000.706,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/28 17:05:49.000.125,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\ToDo Erica\Principal.fmx</Transaction>
+    <Transaction>2021/06/28 17:05:49.000.125,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\ToDo Erica\Principal.pas</Transaction>
+    <Transaction>2021/06/28 17:06:06.000.840,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\ToDo Erica\Erica_ToDoList.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0058355641"/>
+	</ActiveMobileDevice>
+</BorlandProject>
